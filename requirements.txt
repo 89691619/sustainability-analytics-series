@@ -1,1 +1,6 @@
-
+pandas
+sqlalchemy
+dbt-core
+google-cloud-bigquery
+snowflake-connector-python
+matplotlib
